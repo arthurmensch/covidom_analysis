@@ -13,6 +13,6 @@ Install packages from `requirements.txt`.
 
 - `eval_tree.ipynb` produces Figure 4.
 
-The data from `data/shuffled.csv` are generated data with the same columns as the one that we use for analysis -- it is therefore *fake data*, but can be used with our scripts.
+The data from `data/shuffled.csv` are generated data with the same columns as those that we use for analysis -- it is therefore *fake data*, but can be used with our scripts.
 
 The real data is available upon request. It has to be analysed on APHP servers.
